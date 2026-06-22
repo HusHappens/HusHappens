@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Husayn
 
-<!--
-**HusHappens/HusHappens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student | 🤖 AI Enthusiast | 🐍 Python Developer
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Machine Learning
+- Data Science
+- Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+🐍 Python • 🗄️ SQL
+
+## 🎯 Current Goals
+- Build real-world AI projects
+- Improve problem-solving skills
+- Contribute to open-source projects
+
+## 🎉 Fun Facts
+- ☕ I can spend hours debugging one line of code.
+- 🎮 I enjoy gaming when I'm not coding.
+- 🚀 Turning error messages into life lessons since day one.
+- 🧠 50% coding, 50% Googling, 100% determination.
